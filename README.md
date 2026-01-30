@@ -4,7 +4,7 @@
 
 ## 📖 About
 ```ascii
-> My second website project, this time based on the anime and manga series One Piece.
+> A One Piece website with character information.
   I hope you like it!
 ```
 
