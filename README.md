@@ -1,10 +1,36 @@
-# PROJETO DE SITE - ONE PIECE ⛵🌊🏴‍☠️
+# 💻 ONE PIECE
 
-<h3>Introdução</h3>
-Meu segundo projeto de Website, desta vez como tema do Anime e Manga One Piece. <br>
-Espero que gostem! ;)
+<br>
 
-# <h3>Requisitos: <br>
-● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-● Link de acesso: <strong>https://frontenddeveloper-gabriel.github.io/projeto-onepiece/</strong>
-</h3>
+## 📖 About
+```ascii
+> My second website project, this time based on the anime and manga series One Piece.
+  I hope you like it!
+```
+
+<br>
+
+## 📌 Requeriments
+ ● Accessible in browsers such as **Chrome, Edge, Firefox,** among others; <br>
+ ● Access link: **https://projeto-onepiece.netlify.app/**
+ 
+<br>
+
+## 🛠️ Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<br>
+
+---
+<div align = "center">
+<img src = "/give_a_star.png" width = "594" height = "168">
+</div>
+
+<br>
+
+<div align = "center">
+ Created by <a href = "https://github.com/FrontEndDeveloper-Gabriel/"> Gabriel Ribeiro</a> 👨‍💻
+</div>
+
+
